@@ -6,6 +6,18 @@
   </a>
 </p>
 
+### 👾 Um pouco mais sobre mim e no que eu atuo
+
+Sou o **Taino**, focado em criar sistemas robustos no backend e dar vida a mecânicas complexas nos games. Atualmente divido meu tempo entre:
+* 🦀 **Rust no Backend:** Mandando bala como Auxiliar de Programador na Transat, focado pesadamente no ecossistema Rust.
+* 🎮 **Game Dev (Unity/C#):** Fundador da **Mindpunk Lab**, desenvolvendo jogos focados em gerenciamento tático e sobrevivência (como *WARR*, *Zona de Contenção* e *Fragmento 1*).
+* 🐍 **Dados & Scraping:** Desenvolvendo projetos paralelos e automações pesadas, como a raspagem de dados do Cartola IA usando Python integrado com React.
+* 🐧 **Setup & OS:** Usuário fiel e configurador de Arch Linux. Gosto de ter o controle total do meu ambiente e terminal.
+
+---
+
+### 📊 Meu Controle no Git & Status
+
 <div align="center">
   <a href="https://github.com/Taino-Edu">
     <img width="465px" height="195px" src="https://github-readme-stats.vercel.app/api?username=Taino-Edu&show_icons=true&count_private=true&hide_border=true&title_color=00CED1&icon_color=6A0DAD&text_color=00CED1&bg_color=0a0a1f&hide=contribs&theme=transparent&include_all_commits=true&rank_icon=github" alt="Taino github stats" />
@@ -16,59 +28,73 @@
 
 <div align="center">
   <a href="https://github.com/Taino-Edu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=00CED1&vCenter=true&width=500&height=30&lines=UM+POUCO+DO+MEU+FOCO+DE+ESTUDO"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taino-Edu&bg_color=0a0a1f&color=00CED1&line=6A0DAD&point=FFFFFF&area=true&hide_border=true" alt="Taino's GitHub Activity Graph" />
+  </a>
+</div>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Taino-Edu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=00CED1&vCenter=true&width=500&height=30&lines=MEU+ARSENAL+E+HABILIDADES"/>
   </a>
 </div>
 
 <table align="center">
   <tr>
     <th>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3500&color=00CED1&vCenter=true&width=140&height=25&lines=Back-End" alt="Back-End" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3500&color=00CED1&vCenter=true&width=160&height=25&lines=Backend+e+Sistemas" alt="Back-End" />
     </th>
     <th>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=00CED1&vCenter=true&width=140&height=25&lines=Game+Dev" alt="Game Dev" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4000&color=00CED1&vCenter=true&width=160&height=25&lines=Game+Dev+(Mindpunk)" alt="Game Dev" />
     </th>
     <th>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4500&color=00CED1&vCenter=true&width=140&height=25&lines=Dados+%26+Scripts" alt="Dados" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=4500&color=00CED1&vCenter=true&width=160&height=25&lines=Scraping+%26+Front" alt="Front e Dados" />
     </th>
   </tr>
   <tr>
     <td align="center">
+      <br/>
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/><br/>
     </td>
     <td align="center">
+      <br/>
       <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white"/><br/>
     </td>
     <td align="center">
+      <br/>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><br/>
       <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br/>
     </td>
   </tr>
 </table>
 
 <div align="center">
   <a href="https://github.com/Taino-Edu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=00CED1&vCenter=true&width=370&height=40&lines=Ferramentas+%26+Ambiente"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=00CED1&vCenter=true&width=370&height=40&lines=Versionamento+%26+Ambiente"/>
   </a>
 </div>
 
 <table align="center">
   <tr>
-    <th>Versionamento</th>
+    <th>DevOps & Controle Git</th>
     <th>Editores & IDEs</th>
     <th>SO & Terminal</th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><br/>
@@ -86,7 +112,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/edu-taino-a86427348/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.instagram.com/SEU_INSTAGRAM/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://discord.com/users/SEU_DISCORD_ID" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
   <a href="mailto:esusxd0@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>
