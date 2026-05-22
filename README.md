@@ -2,64 +2,55 @@
   <img src="https://raw.githubusercontent.com/Taino-Edu/Mindpunk-Game-Dev-Starter-Kit/main/assets/logos/mindpunk-logo.png" alt="MINDPUNK" width="250">
 </p>
 
-<h1 align="center">TAINO-EDU | MINDPUNK LAB</h1>
+<h1 align="center">TAINO-EDU // MINDPUNK LAB</h1>
 <p align="center">
   <b>Software Engineer | Systems Architect | Game Developer</b><br>
   <i>"Toda decisao cria. Toda criacao custa."</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Systems_Performance-black?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Stack-C%23_Go_Rust_Python-black?style=flat-square" alt="Stack">
-  <img src="https://img.shields.io/badge/Environment-Arch_Linux-black?style=flat-square" alt="Env">
-</p>
-
 ---
 
 ### Manifesto Tecnico
-Fundador do Mindpunk Lab. Foco em arquitetura de software, sistemas de alta performance e engenharia de jogos. Desenvolvimento focado em escalabilidade, gerenciamento de estado e integracao de sistemas.
+Fundador do Mindpunk Lab, um laboratorio focado em quebrar a barreira entre a logica pura e a criacao de sistemas complexos. Nao acredito em solucoes "magicas"; acredito em arquiteturas bem fundamentadas, gerenciamento de estado atomico e performance de baixo nivel.
 
-- Rust Enthusiast: Motores e sistemas de alta performance.
-- C# Specialist: Desenvolvimento robusto de aplicações e serviços.
-- Go Developer: Sistemas distribuídos e ferramentas de alta eficiência.
-- Arch Linux: Controle total sobre o ambiente de desenvolvimento.
+- Rust Enthusiast: Desenvolvendo motores e sistemas de alta performance.
+- C# Specialist: Engenharia de aplicacoes robustas e escalaveis.
+- Go Developer: Sistemas distribuidos e ferramentas de infraestrutura.
+- Arch Linux por teimosia: Porque entender o sistema operacional e o primeiro passo para domina-lo.
 
 ---
 
 ### Niveis de Acesso (Tech Stack)
 
-#### [CORE] Baixo Nivel e Performance
+**[CORE] Baixo Nivel e Performance**  
 Rust, Go, Python (Advanced), PostgreSQL
 
-#### [INTERFACING] Aplicações e Engines
+**[INTERFACING] Aplicacoes e Engines**  
 C#, TypeScript, React, Next.js, Phaser 3, Unity
 
-#### [INFRA e TOOLS] Ecossistema
+**[INFRA e TOOLS] Ecossistema**  
 Docker, Git, Arch Linux, GitHub Actions
 
 ---
 
 ### Projetos Selecionados
-
-- Mindpunk Game Dev Starter Kit
-  Suite educacional profissional integrando Rust (FFI), React e Python.
-
-- CardGameStore (C# / .NET)
-  API robusta para gerenciamento de marketplace de jogos de cartas.
-
-- Dungeon Crawler (Rust)
-  Motor de roguelike procedural com Shadowcasting e integração FFI.
+- **Mindpunk Game Dev Starter Kit:** Suite educacional integrando Rust, React e Python.
+- **CardGameStore:** API robusta em C#/.NET para marketplace de jogos.
+- **Dungeon Crawler:** Engine de roguelike procedural em Rust com integracao FFI.
 
 ---
 
 ### Sistema de Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taino-Edu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taino-Edu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Taino-Edu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taino-Edu&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taino-Edu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taino-Edu&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
