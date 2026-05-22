@@ -65,9 +65,9 @@ Docker, Git, Arch Linux, GitHub Actions
 ---
 
 ### Terminal de Conexao
-- LinkedIn: linkedin.com/in/edu-taino
-- Portfolio: mindpunk.dev
-- Email: esusxd0@gmail.com
+- **LinkedIn:** [linkedin.com/in/edu-taino](https://linkedin.com/in/edu-taino)
+- **Portfolio:** [mindpunk.dev](https://mindpunk.dev)
+- **Email:** [esusxd0@gmail.com](mailto:esusxd0@gmail.com)
 
 <p align="right">
   <i>Ultimo sinal recebido: 2026.05.22</i>
