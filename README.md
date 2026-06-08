@@ -44,6 +44,10 @@ Fundador do Mindpunk Lab, um laboratorio focado em quebrar a barreira entre a lo
 ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
 
+**[GESTÃO & MÉTODOS ÁGEIS]**
+<br>
+![Scrum SFPC](https://img.shields.io/badge/CertiProf-Scrum_Foundation_(SFPC)-000000?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
 ---
 
 ### Telemetria de Codigo
