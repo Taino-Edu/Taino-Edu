@@ -16,20 +16,17 @@ Fundador do Mindpunk Lab, um laboratorio focado em quebrar a barreira entre a lo
 - Rust Enthusiast: Desenvolvendo motores e sistemas de alta performance.
 - C# Specialist: Engenharia de aplicacoes robustas e escalaveis.
 - Go Developer: Sistemas distribuidos e ferramentas de infraestrutura.
-- Arch Linux por teimosia: Porque entender o sistema operacional e o primeiro passo para domina-lo.
+- Windows Power User: Produtividade extrema dominando o sistema principal e integrando ambientes de desenvolvimento pesados.
 
 ---
 
 ### Niveis de Acesso (Tech Stack)
 
-**[CORE] Baixo Nivel e Performance**  
-Rust, Go, Python (Advanced), PostgreSQL
+**[CORE] Baixo Nivel e Performance** Rust, Go, Python (Advanced), PostgreSQL
 
-**[INTERFACING] Aplicacoes e Engines**  
-C#, TypeScript, React, Next.js, Phaser 3, Unity
+**[INTERFACING] Aplicacoes e Engines** C#, TypeScript, React, Next.js, Phaser 3, Unity
 
-**[INFRA e TOOLS] Ecossistema**  
-Docker, Git, Arch Linux, GitHub Actions
+**[INFRA e TOOLS] Ecossistema** Docker, Git, Windows/WSL2, GitHub Actions
 
 ---
 
@@ -41,6 +38,7 @@ Docker, Git, Arch Linux, GitHub Actions
 ---
 
 ### Sistema de Status
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Taino-Edu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats">
 </p>
@@ -51,6 +49,12 @@ Docker, Git, Arch Linux, GitHub Actions
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taino-Edu&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@Taino-Edu">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Taino-Edu&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="WakaTime Stats"/>
+  </a>
 </p>
 
 ---
