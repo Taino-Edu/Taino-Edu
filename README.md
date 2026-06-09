@@ -55,7 +55,7 @@ Fundador do Mindpunk Lab, um laboratorio focado em quebrar a barreira entre a lo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Taino-Edu&hide_border=true&background=0D1117&ring=555555&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=888888&sideLabels=888888&dates=666666" alt="GitHub Streak">
   <br><br>
   <a href="https://wakatime.com/@Taino">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Taino&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&text_color=888888&title_color=ffffff&icon_color=ffffff"/>
+    <img src="https://meu-time-waka.vercel.app/api/wakatime?username=Taino&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&text_color=888888&title_color=ffffff&icon_color=ffffff"/>
   </a>
 </div>
 
