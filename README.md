@@ -70,7 +70,7 @@ Fundador do Mindpunk Lab, um laboratorio focado em quebrar a barreira entre a lo
 
 ### Terminal de Conexao
 * **LinkedIn:** [linkedin.com/in/edu-taino](https://linkedin.com/in/edu-taino)
-* **Portfolio:** [mindpunk.dev](https://mindpunk.dev)
+* **Portfolio:** [taino.dev](https://tainodev.com.br/)
 * **Email:** [esusxd0@gmail.com](mailto:esusxd0@gmail.com)
 
 <div align="right">
